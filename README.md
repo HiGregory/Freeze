@@ -1,5 +1,11 @@
 # Freeze
 
+This app is for testing purpose and is still being worked on not advised for PRODUCTION use.
+
+Freeze Web: Is the main app users will interact with videos.
+FreezeDB: Is the backend piece where we store data and needs to be run on the same machine.
+Freeze Census(https://github.com/HiGregory/FreezeCensus): Is a page where we compile data on police acitivies across 
+
 ## Contents
 
 * [Background](#background)
