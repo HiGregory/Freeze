@@ -57,8 +57,6 @@ Additional requirements from orginal app include:
 7. The interactive video link can be embedded into another page using HTML and a simple
 
 ![thinkific1](https://cloud.githubusercontent.com/assets/17129220/24840040/3c5b7664-1d3c-11e7-9023-3fb233c534db.jpg)
-![thinkific2](https://cloud.githubusercontent.com/assets/17129220/24840041/3c623738-1d3c-11e7-9135-060e280496d0.jpg)
-
 
 This app is a fork of Thinkific(https://github.com/tngaraujo/thinkific) and is an open source project.
 
