@@ -5,6 +5,7 @@
 * [Background](#background)
 * [Configuring](#Configuring)
 * [Requirements](#Requirements)
+* [Additional](#Additional)
 
 
 # Background
@@ -26,6 +27,12 @@ The back-end should be running in the same machine (please download at https://g
 
 You can see full requirements (https://docs.google.com/document/d/1YqQyLOztCgizhvaufjct2E3WLf06bNtO-gagQ3ome5k/edit?usp=sharing) which will show you the specifications for this app.
 
+
+# Additional
+
+This app is a fork of Thinkific(https://github.com/tngaraujo/thinkific) and is an open source project.
+
+
 Additional requirements from orginal app include:
 1. Should work with videos that are hosted on a site like Wistia or Youtube
 
@@ -45,7 +52,6 @@ Additional requirements from orginal app include:
 
 ![thinkific1](https://cloud.githubusercontent.com/assets/17129220/24840040/3c5b7664-1d3c-11e7-9023-3fb233c534db.jpg)
 ![thinkific2](https://cloud.githubusercontent.com/assets/17129220/24840041/3c623738-1d3c-11e7-9135-060e280496d0.jpg)
-![thinkific3](https://cloud.githubusercontent.com/assets/17129220/24840042/3c62afd8-1d3c-11e7-887b-7316978f156f.jpg)
 
 
 This app is a fork of Thinkific(https://github.com/tngaraujo/thinkific) and is an open source project.
