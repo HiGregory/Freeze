@@ -58,7 +58,5 @@ Additional requirements from orginal app include:
 
 ![thinkific1](https://cloud.githubusercontent.com/assets/17129220/24840040/3c5b7664-1d3c-11e7-9023-3fb233c534db.jpg)
 
-This app is a fork of Thinkific(https://github.com/tngaraujo/thinkific) and is an open source project.
-
 
 
